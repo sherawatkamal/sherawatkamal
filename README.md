@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sherawatkamal.netlify.app/projects)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sherawatkamal)
 
-## I'm a Student, fresher, Web Developer!!
+## I'm a Student, Fresher, Web Developer!!
 
 - 🔭 I am a MERN Stack developer !!
 - 🌱 I’m currently learning everything 🤣
