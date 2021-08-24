@@ -1,7 +1,7 @@
 ### Hi there, I'm Kamal - [website] 👋
 
-
-## I'm a Student, Fresher, Web Developer!!
+<!-- 
+## I'm a Student, Fresher, Web Developer!! -->
 
 - 🔭 I am a MERN Stack developer !!
 - 🌱 I’m currently learning everything 🤣
