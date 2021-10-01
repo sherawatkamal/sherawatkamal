@@ -5,7 +5,7 @@
 
 - 🔭 I am a MERN Stack developer !!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Gaining as much experience as I can!!
 - ⚡ Fun fact: I love to watch anime and play chess 
 
